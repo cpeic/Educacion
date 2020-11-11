@@ -4,14 +4,14 @@
 **Contenido:**
 
 >Unidad 00 - Introducción - Privacidad e identidad digital  
->Unidad 01 - Seguridad y Gestión de riesgos - Introducción a la
+>Unidad 01 - Seguridad y gestión de riesgos - Introducción a la
 seguridad  
->Unidad 01 - Seguridad y Gestión de riesgos - Análisis de riesgos  
->Unidad 01 - Seguridad y Gestión de riesgos - Políticas de seguridad  
->Unidad 02 - Seguridad de Activos - Clasificación de la Información  
->Unidad 03 - Arquitecturas de Seguridad e Ingeniería - Modelos de
+>Unidad 01 - Seguridad y gestión de riesgos - Análisis de riesgos  
+>Unidad 01 - Seguridad y gestión de riesgos - Políticas de seguridad  
+>Unidad 02 - Seguridad de activos - Clasificación de la Información  
+>Unidad 03 - Arquitecturas de seguridad e ingeniería - Modelos de
 arquitectura  
->Unidad 03 - Arquitecturas de Seguridad e Ingeniería - Criptografía  
+>Unidad 03 - Arquitecturas de seguridad e ingeniería - Criptografía  
 >Unidad 04 - Redes y comunicaciones - Diseño de redes  
 >Unidad 04 - Redes y comunicaciones - Dispositivos de seguridad en
 redes  
@@ -22,6 +22,6 @@ redes
 >Unidad 07 - Operaciones - Continuidad del negocio  
 >Unidad 07 - Operaciones - Respuesta a incidentes  
 >Unidad 08 - Desarrollo de software - Ciclo de Desarrollo  
->Unidad 09 - Seguridad Física - Componentes de la seguridad física  
+>Unidad 09 - Seguridad física - Componentes de la seguridad física  
 >Unidad 10 - Leyes y ética - Leyes y delitos informáticos  
 >Unidad 11 - Ciberespacio - Conflictos, Actores locales y proyecciones  
