@@ -1,4 +1,4 @@
-# Educacion  
+# Educación  
 
 Guiones, módulos y presentaciones de clase  
 
