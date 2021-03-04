@@ -24,6 +24,8 @@ Conectores Tipo A y B
 **[Paso a paso]** 
   
   
-**[Referencias]** 
-  
+**[Referencias]**  
+  • Krebs - Beware of juice jacking:  [krebsonsecurity.com](https://krebsonsecurity.com/2011/08/beware-of-juice-jacking/)  
+  • USBCondom:  [usbcondom.org](https://usbcondom.org)  
+  • USB Implementers Forum:  [usb.org](https://www.usb.org)  
   
