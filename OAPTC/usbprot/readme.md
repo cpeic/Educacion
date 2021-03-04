@@ -21,8 +21,11 @@ Conectores Tipo A y B
 | Verde | 3 | D+ | Data+ |
 | Negro/Azul | 4 | GND | tierra |
   
-**[Paso a paso]** 
-  
+**[Paso a paso]**  
+ <p align="center">
+ <img src="https://github.com/cpeic/Educacion/blob/1e087be59bdd9b604adbe97f3811fcb7103be5fb/OAPTC/usbprot/1.jpeg" width="350" title="Cable USB" alt="Cable USB">
+</p>
+ 
   
 **[Referencias]**  
   • Krebs - Beware of juice jacking:  [krebsonsecurity.com](https://krebsonsecurity.com/2011/08/beware-of-juice-jacking/)  
