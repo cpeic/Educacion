@@ -8,7 +8,7 @@ El bus permite no solo la carga de un dispositivo sino también la transferencia
   
 **[Problemática]**  
 El *juice jacking* es un tipo de ataque que consiste en el compromiso de una fuente de carga para luego atacar (sustraer info o comprometer) un dispositivo que sea conectado a dicha fuente de carga /energía.  
-Este tipo de ataques suele darse en lugares públicos, como aeropuertos, estaciones, plazas, donde suelen encontrarse estaciones de recarga para dispositivos móviles.  
+Este tipo de ataques suele darse en lugares públicos, como aeropuertos, estaciones de transporte público, plazas, donde suelen encontrarse estaciones de recarga para dispositivos móviles.  
   
 **[Codificación de colores]**  
 Este bus sigue una serie de definiciones con respecto a cables, protocolos y conectores.  
@@ -22,9 +22,34 @@ Conectores Tipo A y B
 | Negro/Azul | 4 | GND | tierra |
   
 **[Paso a paso]**  
- <p align="center">
+
+   • Para esta prueba vamos a utilizar un simple cable prolongador.  
+    <p align="center">
  <img src="https://github.com/cpeic/Educacion/blob/1e087be59bdd9b604adbe97f3811fcb7103be5fb/OAPTC/usbprot/1.jpeg" width="350" title="Cable USB" alt="Cable USB">
 </p>
+   • Procedemos a cortar el cable a una distancia de unos 10 cm del borde del conector.  
+       <p align="center">
+ <img src="https://github.com/cpeic/Educacion/blob/96d3e3ea10f2db880748296e2590bfa0a103e61b/OAPTC/usbprot/2a.jpeg" width="350" title="Cable USB" alt="Cable USB">
+</p>
+   • A continuación podemos observar que el prolongador tiene una malla y luego los cables que identificamos anteriormente.  
+          <p align="center">
+ <img src="https://github.com/cpeic/Educacion/blob/96d3e3ea10f2db880748296e2590bfa0a103e61b/OAPTC/usbprot/2c.jpeg" width="350" title="Cable USB" alt="Cable USB">
+</p>  
+   • Se deben volver a unir, solamente, los cables Rojo (Pin 1) y Negro (Pin 4)
+             <p align="center">
+ <img src="https://github.com/cpeic/Educacion/blob/96d3e3ea10f2db880748296e2590bfa0a103e61b/OAPTC/usbprot/2b.jpeg" width="350" title="Cable USB" alt="Cable USB">
+</p>  
+     • Es posible utilizar termocontraible para proteger los empalmes realizados, una vez finalizado el dispositivo se encuentra listo para ser utilizado.
+                  <p align="center">
+ <img src="https://github.com/cpeic/Educacion/blob/fd3ab8c2228d3d356a8bc191b78fb8ff3af3695a/OAPTC/usbprot/2.jpeg" width="350" title="Cable USB" alt="Cable USB">
+</p>  
+                  <p align="center">
+ <img src="https://github.com/cpeic/Educacion/blob/fd3ab8c2228d3d356a8bc191b78fb8ff3af3695a/OAPTC/usbprot/3.jpeg" width="350" title="Cable USB" alt="Cable USB">
+</p>  
+   
+   
+ *Nota:* Otra variante seria conectar los cables correspondientes a los pines 2 y 3 a un interruptor y en dispositivos confiables utilizar la transferencia de datos.  
+ *Nota 2:* Con conectores USB para armar, es posible construir un filtro mucho más pequeño y portable que el prolongador.  
  
   
 **[Referencias]**  
