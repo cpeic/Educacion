@@ -9,9 +9,12 @@ Este bus sigue una serie de definiciones con respecto a cables, protocolos y con
 **[Codificación de colores]**  
   
 Conectores Tipo A y B  
+
+| Color | Pin | Nombre | Descripción |
+| ------ | ------ | ------ | ------ |
+| Rojo/Naranja | 1 | Vcc | +5 |
+| Blanco/Amarillo | 2 | D- | Data- |
+| Verde | 3 | D+ | Data+ |
+| Negro/Azul | 4 | GND | tierra |
+``` 
 ```
-Rojo/Naranja: (pin 1); VCC; +5v  
-Blanco/Amarillo: (pin 2); D-; Data-  
-Verde: (pin 3); D+; Data+
-Negro/Azul: (pin 4); GND; tierra  
-```  
