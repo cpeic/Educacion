@@ -25,26 +25,26 @@ Conectores Tipo A y B
 
    • Para esta prueba vamos a utilizar un simple cable prolongador.  
     <p align="center">
- <img src="https://github.com/cpeic/Educacion/blob/1e087be59bdd9b604adbe97f3811fcb7103be5fb/OAPTC/usbprot/img/1.jpeg" width="350" title="Cable USB" alt="Cable USB">
+ <img src="https://github.com/cpeic/Educacion/blob/main/OAPTC/usbprot/img/1.jpeg" width="350" title="Cable USB" alt="Cable USB">
 </p>
    • Procedemos a cortar el cable a una distancia de unos 10 cm del borde del conector.  
        <p align="center">
- <img src="https://github.com/cpeic/Educacion/blob/96d3e3ea10f2db880748296e2590bfa0a103e61b/OAPTC/usbprot/img/2a.jpeg" width="350" title="Cable USB" alt="Cable USB">
+ <img src="https://github.com/cpeic/Educacion/blob/main/OAPTC/usbprot/img/2a.jpeg" width="350" title="Cable USB" alt="Cable USB">
 </p>
    • A continuación podemos observar que el prolongador tiene una malla y luego los cables que identificamos anteriormente.  
           <p align="center">
- <img src="https://github.com/cpeic/Educacion/blob/96d3e3ea10f2db880748296e2590bfa0a103e61b/OAPTC/usbprot/img/2c.jpeg" width="350" title="Cable USB" alt="Cable USB">
+ <img src="https://github.com/cpeic/Educacion/blob/main/OAPTC/usbprot/img/2c.jpeg" width="350" title="Cable USB" alt="Cable USB">
 </p>  
    • Se deben volver a unir, solamente, los cables Rojo (Pin 1) y Negro (Pin 4)
              <p align="center">
- <img src="https://github.com/cpeic/Educacion/blob/96d3e3ea10f2db880748296e2590bfa0a103e61b/OAPTC/usbprot/img/2b.jpeg" width="350" title="Cable USB" alt="Cable USB">
+ <img src="https://github.com/cpeic/Educacion/blob/main/OAPTC/usbprot/img/2b.jpeg" width="350" title="Cable USB" alt="Cable USB">
 </p>  
      • Es posible utilizar termocontraible para proteger los empalmes realizados, una vez finalizado el dispositivo se encuentra listo para ser utilizado.
                   <p align="center">
- <img src="https://github.com/cpeic/Educacion/blob/fd3ab8c2228d3d356a8bc191b78fb8ff3af3695a/OAPTC/usbprot/img/2.jpeg" width="350" title="Cable USB" alt="Cable USB">
+ <img src="https://github.com/cpeic/Educacion/blob/main/OAPTC/usbprot/img/2.jpeg" width="350" title="Cable USB" alt="Cable USB">
 </p>  
                   <p align="center">
- <img src="https://github.com/cpeic/Educacion/blob/fd3ab8c2228d3d356a8bc191b78fb8ff3af3695a/OAPTC/usbprot/img/3.jpeg" width="350" title="Cable USB" alt="Cable USB">
+ <img src="https://github.com/cpeic/Educacion/blob/main/OAPTC/usbprot/img/3.jpeg" width="350" title="Cable USB" alt="Cable USB">
 </p>  
    
    
