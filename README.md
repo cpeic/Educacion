@@ -5,11 +5,14 @@
 ##
 Guiones, módulos y presentaciones de clase  
 
-**Contenido:**  
+**Materias:**  
 
 >CPIC - Protección de Infraestructuras Críticas  
 >[CSEG - Seguridad e Integridad de la Información](/CSEG)  
 >CSTE - Seguridad en las Telecomunicaciones  
 >CTR2 - Teleprocesos y Redes 2  
 >  
->[OAPTC - Prácticas](/OAPTC)  
+**Prácticas** [OAPTC - Prácticas](/OAPTC)
+
+**Presentaciones:**
+>2024 RIUTEC - Security.txt: [RLL - UNSO - Security.txt](https://github.com/cpeic/Educacion/blob/main/Presentaciones/2024%20-%20RLL%20-%20UNSO%20-%20SecurityTXT.pdf)
