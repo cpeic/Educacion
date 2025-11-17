@@ -7,6 +7,7 @@ Guiones, módulos y presentaciones de clase
 
 **Materias:**  
 
+>CARI - Administración y Respuesta a Incidentes  
 >CPIC - Protección de Infraestructuras Críticas  
 >[CSEG - Seguridad e Integridad de la Información](/CSEG)  
 >CSTE - Seguridad en las Telecomunicaciones  
